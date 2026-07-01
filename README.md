@@ -135,8 +135,8 @@ I'm open to freelance web and mobile development projects. Whether you need a fa
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   &nbsp;
-  <a href="https://saludenactivo.com/">
-    <img src="https://img.shields.io/badge/Salud_En_Activo-4CAF50?style=for-the-badge&logo=googlechrome&logoColor=white">
+  <a href="https://zalbetechstudio.saludenactivo.com//">
+    <img src="https://img.shields.io/badge/zalbe_tech_studio-4CAF50?style=for-the-badge&logo=googlechrome&logoColor=white">
   </a>
 </p>
 
