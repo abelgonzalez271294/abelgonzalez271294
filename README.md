@@ -122,7 +122,7 @@ The official website for Zalbe Tech Studio. A single-file, single-page applicati
 - Fully responsive dark UI with particle animations and smooth page transitions
 - No frameworks, no dependencies — pure HTML, CSS, and vanilla JavaScript
 
-> 🌐 **[Visit Zalbe Tech Studio](https://zalbetechstudio.saludenactivo.com/)** *(update with your domain)*
+> 🌐 **[Visit Zalbe Tech Studio](https://zalbetechstudio.saludenactivo.com/)** 
 
 ---
 
