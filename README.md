@@ -45,31 +45,15 @@ In parallel, I work on custom web projects: sites that are fast, accessible, and
 
 #### 📱 Centify — Personal Finance App for Android
 
-[
+<p>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white">
+  <img src="https://img.shields.io/badge/Status-In_Development-EAB308?style=flat-square">
+</p>
 
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-
-](https://reactnative.dev)
-[
-
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
-
-](https://expo.dev)
-[
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-](https://www.typescriptlang.org)
-[
-
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-
-](https://play.google.com)
-[
-
-![Status](https://img.shields.io/badge/Status-In_Development-EAB308?style=flat-square)
-
-]()
+<img src="assets/centify-icon.png" alt="Centify - Personal Finance App" width="80">
 
 A complete personal finance manager built natively for Android with React Native and Expo Router. Designed for users who want real control over their money without complexity.
 
@@ -90,31 +74,17 @@ A complete personal finance manager built natively for Android with React Native
 
 #### 🌿 Salud En Activo — Health & Wellness Platform
 
-[
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/SEO_Optimized-4CAF50?style=flat-square&logo=googlesearchconsole&logoColor=white">
+  <img src="https://img.shields.io/badge/Status-Live-06D46B?style=flat-square">
+</p>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-
-]()
-[
-
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-]()
-[
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-]()
-[
-
-![SEO](https://img.shields.io/badge/SEO_Optimized-4CAF50?style=flat-square&logo=googlesearchconsole&logoColor=white)
-
-]()
-[
-
-![Status](https://img.shields.io/badge/Status-Live-06D46B?style=flat-square)
-
-]()
+<a href="https://saludenactivo.com/" target="_blank">
+  <img src="assets/salud-en-activo-preview.png" alt="Salud En Activo - Health and Wellness Website" width="600">
+</a>
 
 A health and wellness website built to educate and convert. The site covers three core pillars — nutrition, mental balance, and daily active habits — with a product section, blog, and contact flow designed to guide visitors toward taking action.
 
@@ -131,26 +101,17 @@ A health and wellness website built to educate and convert. The site covers thre
 
 #### ⚡ Zalbe Tech Studio — Developer Studio Website
 
-[
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Single_Page_App-7C3AED?style=flat-square">
+  <img src="https://img.shields.io/badge/Status-Live-06D46B?style=flat-square">
+</p>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-
-]()
-[
-
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-]()
-[
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-]()
-[
-
-![Status](https://img.shields.io/badge/Status-Live-06D46B?style=flat-square)
-
-]()
+<a href="https://saludenactivo.com/" target="_blank">
+  <img src="assets/zalbe-tech-studio-preview.png" alt="Zalbe Tech Studio - Mobile App Development Studio" width="600">
+</a>
 
 The official website for Zalbe Tech Studio. A single-file, single-page application with hash-based routing that covers the studio's identity, published projects, a working contact form, and the legal documentation for all published apps.
 
